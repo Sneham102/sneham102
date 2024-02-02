@@ -4,14 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneham102&label=Profile%20views&color=0e75b6&style=flat" alt="sneham102" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sneham_das" target="blank"><img src="https://img.shields.io/twitter/follow/sneham_das?logo=twitter&style=for-the-badge" alt="sneham_das" /></a> </p>
+<p align="left"> <a href="https://twitter.com/snehamdas2" target="blank"><img src="https://img.shields.io/twitter/follow/sneham_das?logo=twitter&style=for-the-badge" alt="sneham_das" /></a> </p>
 
-- 📫 How to reach me **snehamdas03@gmail.com**
+- 📫 How to reach me **snehamdas69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sneham_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sneham_das" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sneham-das-6277181ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneham-das-6277181ba/" height="30" width="40" /></a>
+<a href="https://twitter.com/snehamdas2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sneham_das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/snehamdas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneham-das-6277181ba/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/myname_is_sneham/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/myname_is_sneham/?hl=en" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sneham102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sneham102/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/snehamdas0o1t/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/snehamdas0o1t/profile" height="30" width="40" /></a>
